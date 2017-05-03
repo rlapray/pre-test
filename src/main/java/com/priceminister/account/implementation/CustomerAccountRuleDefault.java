@@ -17,7 +17,7 @@ package com.priceminister.account.implementation;
 import com.priceminister.account.*;
 
 
-public class CustomerAccountRule implements AccountRule {
+public class CustomerAccountRuleDefault implements AccountRule {
 
     /* (non-Javadoc)
      * @see com.priceminister.account.AccountRule#withdrawPermitted(java.lang.Double)
